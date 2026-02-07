@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Neovim log files
+.nvimlog
+
+# Claude local settings
+.claude/
+
+# Git
+*.orig
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
