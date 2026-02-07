@@ -29,6 +29,14 @@ brew install ripgrep fd
 
 ## 安装
 
+### 一键安装
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/FZRKexEr/nvim/main/install.sh)
+```
+
+### 手动安装
+
 ```bash
 # 备份已有配置
 mv ~/.config/nvim/init.lua ~/.config/nvim/init.lua.bak
