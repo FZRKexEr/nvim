@@ -29,7 +29,7 @@ brew install ripgrep fd
 
 ## 安装
 
-### 一键安装
+### Install
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/FZRKexEr/nvim/main/install.sh)
