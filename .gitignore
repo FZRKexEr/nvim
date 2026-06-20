@@ -6,9 +6,6 @@
 # Neovim log files
 .nvimlog
 
-# Claude local settings
-.claude/
-
 # Git
 *.orig
 
